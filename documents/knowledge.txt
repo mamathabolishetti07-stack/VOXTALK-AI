@@ -1,0 +1,7 @@
+VoxTalk AI is a multilingual conversational assistant.
+The application allows users to communicate using text and voice.
+Users can select a preferred language.
+The system uses Ollama and Llama for generating responses.
+The application uses RAG to retrieve information from documents.
+The RAG system stores document embeddings in ChromaDB.
+The application provides text and voice responses.

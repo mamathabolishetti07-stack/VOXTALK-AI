@@ -1,7 +1,5 @@
- ls
-app.py      requirements.txt
-chatbot.py  text_to_speech.py
-data/       venv/
-documents/  voice.py
-rag.py
-(venv) 
+venv/
+__pycache__/
+*.pyc
+.env
+data/chroma_db/
